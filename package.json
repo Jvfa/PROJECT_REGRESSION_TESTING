@@ -1,0 +1,24 @@
+{
+  "name": "project_regression_testing",
+  "version": "1.0.0",
+  "description": "\"# PROJECT_REGRESSION_TESTING\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jvfa/PROJECT_REGRESSION_TESTING.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jvfa/PROJECT_REGRESSION_TESTING/issues"
+  },
+  "homepage": "https://github.com/Jvfa/PROJECT_REGRESSION_TESTING#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
