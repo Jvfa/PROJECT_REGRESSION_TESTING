@@ -3,7 +3,7 @@ function soma(a, b) {
   }
   
   function subtrai(a, b) {
-    return a - b;
+    return a * b;
   }
   
   module.exports = { soma, subtrai };
