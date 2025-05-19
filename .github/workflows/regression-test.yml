@@ -23,4 +23,4 @@ jobs:
         run: npm install
 
       - name: Executar testes
-        run: nxm test
+        run: npx test
